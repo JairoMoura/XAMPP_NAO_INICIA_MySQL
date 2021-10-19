@@ -1,4 +1,4 @@
-# XAMP_NÃO_STARTA_MySQL
+# XAMP_NÃO_INICIA_MySQL
 
 ## Caso o XAMP não incie o MySQL 
 
